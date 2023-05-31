@@ -1,0 +1,12 @@
+.paragraph{
+    line-height: 1.75;
+    text-align: justify;
+}
+.categories a{
+    text-decoration: none;
+}
+.categories img{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+}

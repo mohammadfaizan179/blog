@@ -1,0 +1,11 @@
+.navLinkItem{
+    color: whitesmoke;
+    text-decoration: none;
+    font-family: cursive;
+}
+.navLinkItem:hover{
+    color: grey;
+}
+.active{
+    color: grey !important;
+}

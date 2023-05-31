@@ -1,0 +1,12 @@
+
+.work-img-box{
+    display: flex;
+    width: 225px;
+    height: 225px;
+    background-color: #1ba1b9;
+    border-radius: 100%;
+    border: 25px solid #d7daf4;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 0 auto;    
+}
